@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tippling-mobile",
+    "slug": "tippling-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tippling-mobile"
+}
