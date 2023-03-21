@@ -1,0 +1,3 @@
+[submodule "tippling-webapp"]
+	path = tippling-webapp
+	url = git@github.com:AdityaVandan/tippling-webapp.git
